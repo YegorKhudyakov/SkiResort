@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\WS\SkiResost\SkiResost\obj\Debug\
+G:\WS\SkiResost\SkiResort\obj\Debug\
 SkiResort
 none
 false
 DEBUG;TRACE
-G:\WS\SkiResost\SkiResost\App.xaml
+G:\WS\SkiResost\SkiResort\App.xaml
 440480030
 2-967514586
 20954044154
 19-1867977476
 LandPage.xaml;LoginHistory.xaml;MainWindow.xaml;WorkWindow.xaml;
 
-False
+True
 
