@@ -21,7 +21,13 @@ namespace SkiResort
         public string Passwords { get; set; }
         public Nullable<System.DateTime> LastEntrance { get; set; }
         public bool IsSucces { get; set; }
-    
+
+        public string IsSuccessString()
+        {
+            string result = IsSucces ? "Да" : "Нет";
+            return result;
+        }
+
         public virtual WorkersPositions WorkersPositions { get; set; }
     }
 }
